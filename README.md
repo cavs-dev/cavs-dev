@@ -13,8 +13,11 @@ Traceability and environmental sustainability solutions for value chains
 ## Our services
 
 | Traceability in value chains | Environmental impact management | Development of customized solutions |
-|:--------------------------------:|:------------- ---------------:|:-------------------------------- -------:|
-| We implement traceability systems in value chains to improve the efficiency and transparency of processes | We help companies minimize their environmental impact through the use of sustainable technologies and strategies | We develop customized solutions to meet the specific needs of each client |
+|:----------------------------:|:-------------------------------:|:-----------------------------------:|
+
+| We implement traceability systems in value chains to improve the efficiency and transparency of processes |
+| We help companies minimize their environmental impact through the use of sustainable technologies and strategies |
+| We develop customized solutions to meet the specific needs of each client |
 
 <!-- Featured projects section -->
 ##Featured projects
