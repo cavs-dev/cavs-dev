@@ -6,7 +6,7 @@ Traceability and environmental sustainability solutions for value chains
 
 <!-- Image -->
 <p align="center">
-  <img src="https://static.wixstatic.com/media/567784_3c2fff923341448f8f6d031ded610df0~mv2.png/v1/fill/w_394,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cavs_logoletrang%20 " width="200" height="200">
+  <img src="https://static.wixstatic.com/media/567784_3c2fff923341448f8f6d031ded610df0~mv2.png/v1/fill/w_394,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cavs_logoletrang%20 " width="450" height="200">
 </p>
 
 <!-- Services section -->
