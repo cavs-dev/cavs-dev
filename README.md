@@ -27,7 +27,7 @@ Traceability and environmental sustainability solutions for value chains
 Intertwine sustainability with technology to make value chains visible and transparent with technology
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2013/05/07/08/40/globe-109275_1280.jpg" width="200" height="200">
+  <img src="[https://cdn.pixabay.com/photo/2013/05/07/08/40/globe-109275_1280.jpg](https://static.wixstatic.com/media/567784_78bcd957393d4df8a0c32232749eaa8f~mv2.png/v1/fill/w_430,h_426,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/circulametrics%20new.png)" width="430" height="200">
 </p>
 Technologies used: [ Docker, Javascript, Css, Html, Php ]
 
