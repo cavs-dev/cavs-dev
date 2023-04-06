@@ -2,13 +2,14 @@
 # CAVS+ CADENAS DE VALOR MÁS SUSTENTABLES
 
 <!-- Image -->
-<p align="left">
-  <img src="https://static.wixstatic.com/media/567784_3c2fff923341448f8f6d031ded610df0~mv2.png/v1/fill/w_394,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cavs_logoletrang%20 " width="450" height="200">
+<p>
+<p align="center">
+  <img src="https://static.wixstatic.com/media/567784_3c2fff923341448f8f6d031ded610df0~mv2.png/v1/fill/w_394,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cavs_logoletrang%20 " width="350" height="150">
 </p>
-
 <!-- Description -->
 <p align="center">
   Traceability and environmental sustainability solutions for value chains
+</p>
 </p>
 <!-- Services section -->
 
