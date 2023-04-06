@@ -11,6 +11,7 @@
   Traceability and environmental sustainability solutions for value chains
 </p>
 <!-- Services section -->
+
 ## Our services
 
 | Traceability in value chains | Environmental impact management | Development of customized solutions |
@@ -25,7 +26,7 @@
 
 
 <!-- Featured projects section -->
-##Featured projects
+## Featured projects
 ### Circulametry.application
 
 Intertwine sustainability with technology to make value chains visible and transparent with technology
