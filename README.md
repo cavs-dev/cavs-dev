@@ -28,7 +28,7 @@
 
 <!-- Featured projects section -->
 ## Featured projects
-### Circulametry.app
+### Circulametrics.app
 
 Intertwine sustainability with technology to make value chains visible and transparent with technology
 
